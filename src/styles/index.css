@@ -7,8 +7,10 @@ h1 {
     font-size: 100px;
     font-weight: 100;
     text-align: center;
-    color: rgba(23, 11, 11, 0.914);
+    color: rgba(175, 47, 47, 0.15);
     margin: 20px 0;
+    position: relative;
+    z-index: 3;
 }
 
 .todo-container {
